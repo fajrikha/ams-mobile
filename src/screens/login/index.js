@@ -17,7 +17,7 @@ class LoginScreen extends Component {
             <View style={styles.wrapperImage}>
                 <StatusBar translucent backgroundColor="transparent" barStyle="dark-content"/>
                 <ImageLogin />
-            </View>
+            </View >
             <View style={styles.secondWrapper}>
                 <Title />
                 <Email />
